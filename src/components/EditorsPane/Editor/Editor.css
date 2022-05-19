@@ -1,0 +1,10 @@
+.react-codemirror2 {
+  position: relative;
+  height: 300px;
+  display: flex;
+}
+
+.react-codemirror2 .CodeMirror-wrap {
+  position: absolute;
+  width: 100%;
+}
